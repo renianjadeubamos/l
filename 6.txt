@@ -1,0 +1,31 @@
+<html>
+<head><title> LIFE </title></head>
+<body background= https://cdn.mos.cms.futurecdn.net/qHWAzx7UnU82TehtWTNdKM-480-80.jpg>
+
+<body>
+<right><img src= https://doh.gov.ph/sites/default/files/styles/large/public/case%20bulletin%20icon.png?itok=m6MfIaz7></right>
+<br>
+<center>
+<table border="1">
+<tr bgcolor="violet">
+<th colspan="5"><center>(COVID-19) CASES, RECOVIRIES, and DEATHS WORLDWIDE</center></th>
+</tr>
+<tr bgcolor="violet">
+<th> TOTAL CASES</th>
+<th> TOTAL RECOVIRIES</th>
+<th> TOTAL DEATHS </th>
+</tr>
+<tr bgcolor="violet">
+<td> 110,841,374 </td>
+<td> 85,789,877 </td>
+<td> 2,452,625 </td>
+</tr>
+</table>
+</center>
+<font color= white size="8", face= Verdana>
+<center><b> HOW IT SPREADS? </b></center>
+<b> The virus that causes COVID-19 is mainly transmitted through droplets generated when an infected person coughs, sneezes, or exhales. These droplets are too heavy to hang in the air, and quickly fall on floors or surfaces. </b>
+<b> You can be infected by breathing in the virus if you are within close proximity of someone who has COVID-19, or by touching a contaminated surface and then your eyes, nose or mouth.</b>
+
+
+
