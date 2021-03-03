@@ -1,0 +1,28 @@
+<html>
+<head><title> PLACES </title></head>
+<body background= https://thenativeantigencompany.com/wp-content/uploads/2019/11/shutterstock_726354721-min-1000x675.jpg>
+
+<body>
+<font color= black size="6", face= Verdana>
+<right><img src= https://doh.gov.ph/sites/default/files/styles/large/public/case%20bulletin%20icon.png?itok=m6MfIaz7></right>
+<b><center> COVID TESTING NEAR ME! </center></b>
+<b> 1.Bacolod Queen Of Mercy Hospital
+<br>
+Hospital(034) 432 2887 </b>
+<br>
+<b> 2.Dr. Pablo O Torre Memorial Hospital
+<br>
+Hospital · Bacolod, Negros Occidental · (034) 433 7331 </b>
+<br>
+<b> 3.The Doctors Hospital, Inc.
+<br>
+Private hospital · Bacolod, Negros Occidental · (034) 468 2100</b>
+<br>
+<b> 4.Corazon Locsin Montelibano Memorial Regional Hospital
+<br>
+General hospital · Bacolod · (034) 703 1350</b>
+<br>
+<b> 5.Philippine Red Cross - Negros Occidental Molecular Laboratory </b>
+
+</body>
+</html>
